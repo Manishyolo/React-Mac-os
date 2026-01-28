@@ -34,4 +34,7 @@
 }
 .window .nav .dot.green {
   background-color: #00ca56;
+}
+.window .main-content {
+  overflow: auto;
 }/*# sourceMappingURL=Window.css.map */
